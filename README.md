@@ -1,4 +1,4 @@
 # hello-world
-My first hello-world project in git hub
+My first sec-world project in git hub
 
-I am Rafi Barak ...new to git hub
+I am Rafi rrrr ...new to git hub
